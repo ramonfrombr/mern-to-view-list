@@ -1,3 +1,3 @@
-const backendUrl = "http://localhost:3005";
+const backendUrl = "https://mern-toviewlist.onrender.com";
 
 export default backendUrl;
