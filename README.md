@@ -46,13 +46,13 @@ A MERN stack app to keep track of online stuff, which you may want to view later
 
 #### Desktop
 
-![Desktop-1](https://github.com/ramonfrombr/mern-to-view-list/blob/main/screenshots/toviewlist01.jpg)
-![Desktop-2](https://github.com/ramonfrombr/mern-to-view-list/blob/main/screenshots/toviewlist02.jpg)
-![Desktop-3](https://github.com/ramonfrombr/mern-to-view-list/blob/main/screenshots/toviewlist03.jpg)
+![Desktop-1](https://github.com/ramonfrombr/mern-to-view-list/blob/main/screenshots/toviewlist01.png)
+![Desktop-2](https://github.com/ramonfrombr/mern-to-view-list/blob/main/screenshots/toviewlist02.png)
+![Desktop-3](https://github.com/ramonfrombr/mern-to-view-list/blob/main/screenshots/toviewlist03.png)
 
 #### Mobile
 
-![Desktop-3](https://github.com/ramonfrombr/mern-to-view-list/blob/main/screenshots/toviewlist04.jpg)
+![Desktop-3](https://github.com/ramonfrombr/mern-to-view-list/blob/main/screenshots/toviewlist04.png)
 
 ## Usage
 
